@@ -8,4 +8,3 @@ elif x>= 40:
 elif x >= 20:
     print("Elégséges")
 else: print("elégetlen")
-print()
